@@ -1,4 +1,10 @@
-### Hi there 👋
+
+![image](https://user-images.githubusercontent.com/99480168/230713479-1d7c22ac-af97-4094-95a3-894e3597ddda.png)
+
+### Hi 👋, I am Raghav Vasdeva
+### System Engineer in Infosys 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raghav-1998)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **raghav-1998/raghav-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
